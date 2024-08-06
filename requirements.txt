@@ -4,4 +4,4 @@ pandas
 joblib
 numpy
 openpyxl
-matplotib
+matplotlib
